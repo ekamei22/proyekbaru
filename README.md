@@ -1,4 +1,4 @@
-## PENGKAT - Pengaduan Masyarakat
+## Pengajuan Layanan Masyarakat Online
 
-Ini adalah Source Code Website PENGKAT - Layanan Pengaduan Masyarakat Online yang dibuat menggunakan Framework Laravel 8 dan Tailwindcss.
+menggunakan Framework Laravel 8 dan Tailwindcss.
 # baru
